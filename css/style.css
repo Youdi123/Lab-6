@@ -1,9 +1,9 @@
 #main-navbar {
   blackground-color: blue;
   overflow: hidden;
-  position: relative;
 }
 #main-container {
+  position: relative;
   float: left;
   width: 100%;
 }
@@ -39,8 +39,6 @@
   background-color: red;
   height: 100%;
   width: 20%;
-}
-#sidebar-container {
   display: block;
 }
 #sidebar-container ul {
@@ -49,7 +47,7 @@
   padding: 0;
 }
 #sidebar-container ul li {
-  padding:  15px 0;
+  padding: 15px 0;
 }
 #sidebar-container ul li a {
   display: block;
@@ -59,4 +57,3 @@
 #sidebar-container ul li a:hover {
   background-color: #000;
 }
-  
